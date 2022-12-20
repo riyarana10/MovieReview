@@ -1,4 +1,4 @@
-<h1 style="color:red;">MovieReview</h1>
+#MovieReview
 
 <br />
 <!-- TABLE OF CONTENTS -->
@@ -28,7 +28,7 @@
 This project give movie review/discription and rating.
 
 * It has a search feature which will allow you to search for a particular movie
-* Genre page which will allow user to select there favorite genre 
+* Genre page which will allow user to select their favorite genre 
 
 ![Screenshot 2022-12-20 202949](https://user-images.githubusercontent.com/66198709/208708103-a12d6707-b854-437b-9238-e7ef1ec52bda.png)
 
@@ -55,6 +55,3 @@ This project give movie review/discription and rating.
    git clone https://github.com/riyarana10/MovieReview.git
    ```
 2. Open index.js with live server
-
-
-
